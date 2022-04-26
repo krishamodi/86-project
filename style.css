@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   fabric.Image.fromURL(get_image, function(Img) {
+
+   }
+}
+
+canvas.add(block_image_object);
